@@ -1,6 +1,6 @@
 {
   "homepage": "https://larrychiem.github.io/nike_kobe_bryant_tribute_seo_fix/",
-  "name": "Nike's Tribute Message To Kobe Bryant",
+  "name": "untitled",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +13,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
