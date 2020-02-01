@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nike_kobe_bryant_tribute_seo_fix/precache-manifest.4d6fd2e10fcd0b03e4f09947bc4b7fa5.js"
+  "/nike_kobe_bryant_tribute_seo_fix/precache-manifest.4e6534e3ea9536921196c34642d93195.js"
 );
 
 self.addEventListener('message', (event) => {

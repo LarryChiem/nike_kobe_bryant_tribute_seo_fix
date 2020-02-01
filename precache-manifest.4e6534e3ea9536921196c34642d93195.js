@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92fdf1572e8af0cfa01cd824231a78e8",
+    "revision": "3d010596c49e272cd3ac24fcfd0dce03",
     "url": "/nike_kobe_bryant_tribute_seo_fix/index.html"
   },
   {
-    "revision": "f185661fff3cd0e1424a",
-    "url": "/nike_kobe_bryant_tribute_seo_fix/static/css/main.342b5544.chunk.css"
+    "revision": "93d39d55d0b7e76cc053",
+    "url": "/nike_kobe_bryant_tribute_seo_fix/static/css/main.db406d45.chunk.css"
   },
   {
     "revision": "98b6535831ac288de1e6",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nike_kobe_bryant_tribute_seo_fix/static/js/2.30424f38.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f185661fff3cd0e1424a",
+    "revision": "93d39d55d0b7e76cc053",
     "url": "/nike_kobe_bryant_tribute_seo_fix/static/js/main.9dd7b13c.chunk.js"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nike_kobe_bryant_tribute_seo_fix/static/js/runtime-main.5ad6a19c.js"
   },
   {
-    "revision": "46a3a239fd8759c5e0c76ac92b252ec7",
-    "url": "/nike_kobe_bryant_tribute_seo_fix/static/media/mamba-day-kobe-bryant-black-and-white-spotlight.46a3a239.jpg"
+    "revision": "702e71df2485fee4569b27f45bb3f88a",
+    "url": "/nike_kobe_bryant_tribute_seo_fix/static/media/mamba-day-kobe-bryant-black-and-white-spotlight.702e71df.jpg"
   },
   {
     "revision": "b3434e3e703dc1cefa6052ace31234c1",

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nike_kobe_bryant_tribute_seo_fix/static/css/main.342b5544.chunk.css",
+    "main.css": "/nike_kobe_bryant_tribute_seo_fix/static/css/main.db406d45.chunk.css",
     "main.js": "/nike_kobe_bryant_tribute_seo_fix/static/js/main.9dd7b13c.chunk.js",
     "main.js.map": "/nike_kobe_bryant_tribute_seo_fix/static/js/main.9dd7b13c.chunk.js.map",
     "runtime-main.js": "/nike_kobe_bryant_tribute_seo_fix/static/js/runtime-main.5ad6a19c.js",
@@ -8,17 +8,17 @@
     "static/js/2.30424f38.chunk.js": "/nike_kobe_bryant_tribute_seo_fix/static/js/2.30424f38.chunk.js",
     "static/js/2.30424f38.chunk.js.map": "/nike_kobe_bryant_tribute_seo_fix/static/js/2.30424f38.chunk.js.map",
     "index.html": "/nike_kobe_bryant_tribute_seo_fix/index.html",
-    "precache-manifest.4d6fd2e10fcd0b03e4f09947bc4b7fa5.js": "/nike_kobe_bryant_tribute_seo_fix/precache-manifest.4d6fd2e10fcd0b03e4f09947bc4b7fa5.js",
+    "precache-manifest.4e6534e3ea9536921196c34642d93195.js": "/nike_kobe_bryant_tribute_seo_fix/precache-manifest.4e6534e3ea9536921196c34642d93195.js",
     "service-worker.js": "/nike_kobe_bryant_tribute_seo_fix/service-worker.js",
-    "static/css/main.342b5544.chunk.css.map": "/nike_kobe_bryant_tribute_seo_fix/static/css/main.342b5544.chunk.css.map",
+    "static/css/main.db406d45.chunk.css.map": "/nike_kobe_bryant_tribute_seo_fix/static/css/main.db406d45.chunk.css.map",
     "static/js/2.30424f38.chunk.js.LICENSE.txt": "/nike_kobe_bryant_tribute_seo_fix/static/js/2.30424f38.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/nike_kobe_bryant_tribute_seo_fix/static/media/mamba-day-kobe-bryant-black-and-white-spotlight.46a3a239.jpg",
+    "static/media/index.css": "/nike_kobe_bryant_tribute_seo_fix/static/media/mamba-day-kobe-bryant-black-and-white-spotlight.702e71df.jpg",
     "static/media/nike_PNG9.png": "/nike_kobe_bryant_tribute_seo_fix/static/media/nike_PNG9.b3434e3e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5ad6a19c.js",
     "static/js/2.30424f38.chunk.js",
-    "static/css/main.342b5544.chunk.css",
+    "static/css/main.db406d45.chunk.css",
     "static/js/main.9dd7b13c.chunk.js"
   ]
 }
