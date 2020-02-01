@@ -13,11 +13,13 @@ function App() {
           <p>sympathies</p>
           <p>to those closest to Kobe,</p>
           <p>especially his family and friends.</p>
+          <br></br>
           <p>He was one of the greatest</p>
           <p>athletes of his generation and</p>
           <p>has had an immeasurable impact</p>
           <p>on the world of sport and the</p>
           <p>community of basketball.</p>
+                  <br></br>
           <p>He was a beloved member</p>
           <p>of the Nike family.</p>
           <p>We will miss him greatly.</p>
