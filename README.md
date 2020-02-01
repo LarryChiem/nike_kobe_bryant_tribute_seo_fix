@@ -2,6 +2,31 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+We need to install GitHub Pages package as a dev-dependency.
+
+### `npm install gh-pages --save-dev`
+
+Add properties to package.json file.
+
+The first property we need to add at the top level homepage second we will define this as a string and the value will be "http://{username}.github.io/{repo-name}" {username} is your GitHub username, and {repo-name} is the name of the GitHub repository you created it will look like this :
+
+### `"homepage": "http://yuribenjamin.github.io/my-app"`
+     
+Second in the existing scripts property we to need to add predeploy and deploy.
+
+     "scripts": {
+     //...
+     "predeploy": "npm run build",
+     "deploy": "gh-pages -d build"
+     }`
+
+Now deploy it to GitHub Pages.
+
+just run the following command :
+
+### `npm run deploy`
+
+
 In the project directory, you can run:
 
 ### `npm start`
