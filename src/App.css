@@ -1,8 +1,6 @@
 .quote-container {
   float: left;
-  margin: 2% 0% 5% 6%;
-  /*margin-top: 4%;*/
-  /*margin-left: 6%;*/
+  padding: 2% 0% 5% 16%;
   text-align: center;
   color: #f6f6f6;
   font-size: 20px;
