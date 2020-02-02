@@ -1,3 +1,8 @@
+# Nike's Tribute Message to Kobe Bryant (Remake for Search Engine Optimization)
+After learning of Kobe Bryant’s sudden passing, I began reminiscing through his memories. On Nike’s website, I found that the search engine optimization was an issue as search algorithms cannot read text-embedded within images. In honor of the late Kobe Bryant, and as a personal tribute to someone who inspires me, the revised version of this page will allow the text to be found via search engines.
+
+![](src/img/kobe.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
